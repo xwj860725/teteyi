@@ -1,0 +1,333 @@
+{
+  "common": {
+    "contact": "Contact Us",
+    "join": "Join Us",
+    "submit": "Submit",
+    "viewMore": "View More",
+    "learnMore": "Learn More"
+  },
+  "header": {
+    "logo": {
+    "subtitle": "Teteyi Law Firm"},
+    "nav": {
+      "about": "About Teteyi",
+      "business": "Business Areas",
+      "team": "Our Team",
+      "contact": "Contact Us",
+      "join": "Join Us"
+    }
+  },
+  "home": {
+    "banner": {
+      "title": "Focused on Equity · Connected by Heart"
+    },
+    "team": {
+      "title": "Professional Team",
+      "desc": "Teteyi Law Firm's professional VAi lawyer group is a well-known legal service team in China, consisting of over 60 experienced lawyers in litigation and business. Among them are master's and doctoral degree holders, as well as overseas returnees from prestigious international universities. We also closely cooperate with renowned domestic law firms, North American training institutions, listed company advisors, and top accounting firms.",
+      "button": "View Our Team"
+    },
+    "business": {
+      "title": "Business Areas",
+      "tdxl": "Equivalent Examination Studies",
+      "companyLaw": "Corporate Law / Equity",
+      "businessCoop": "Business Cooperation"
+    },
+    "news": {
+      "title": "Teteyi News",
+      "button": "Explore More"
+    }
+  },
+  "footer": {
+    "logo": {
+    "subtitle":  "Teteyi Law Firm"},
+    "nav": {
+      "legal": "Legal Notice",
+      "privacy": "Privacy Policy",
+      "contact": "Contact Us",
+      "join": "Join Us"
+    },
+    "copyright": "© 2025 Teteyi Law Firm. All rights reserved."
+  },
+
+"about": {
+  "bannerAlt": "Teteyi Overview",
+  "aboutTitle": "About Us",
+  "aboutDescription": "Teteyi Law Firm was established in 2024. Its VAi lawyer group is a well-known legal service team in China, consisting of over 60 experienced lawyers in litigation and business. Among them are master's and doctoral degree holders, as well as overseas returnees from prestigious international universities. The team works closely with renowned domestic law firms, North American training institutions, listed company advisors, and top accounting firms.",
+  "whyTitle": "Why Teteyi",
+  "why1": "The character chinois'特' has ten strokes, and two '特' together symbolize perfection and completeness.",
+  "why2": "'特' also means doing something with special intent — Teteyi Law Firm was founded with this dedication.",
+  "why3": "'特' implies uniqueness, meaning we are different from ordinary law firms.",
+  "why4": "The left radical of '特' means ox, and the radical of '亿' means person — yes, our firm is full of 'awesome people'!",
+  "why5": "The right side of '特' is '寺' (temple). In ancient China, 'Dali Temple' represented the rule of law; having two temples symbolizes 'everything goes smoothly'.",
+  "why6": "The right radical of '亿' is '乙', symbolizing lawyers often serve as Party B in contracts, humbly serving our clients' best interests.",
+  "why7": "Teteyi VAi Lawyer Group: Special love for extraordinary entrepreneurs!",
+  "viewTeam": "View Our Team",
+  "teamPhotoAlt": "Teteyi Team Photo"
+},
+
+"business": {
+  "bannerAlt": "Business Areas",
+  "cards": [
+    {
+      "title": "Corporate Law / Equity",
+      "linkText": "View Details"
+    },
+    {
+      "title": "Equivalent Examination Studies",
+      "linkText": "View Details"
+    },
+    {
+      "title": "VAI News / Business Collaboration",
+      "linkText": "View Details"
+    }
+  ]
+},
+
+
+"team": {
+  "bannerAlt": "Professional Team",
+  "members": [
+    {
+      "name": "David Zhuang - Senior Partner",
+      "desc": "Experienced equity lawyer, deeply understands businesses and entrepreneurs"
+    },
+    {
+      "name": "Tiffany Wang - Founder of VAi Lawyer Group",
+      "desc": "Innovative service concept combining law, management, and negotiation, focused on people, reason, and law"
+    },
+    {
+      "name": "Jet Chen - Co-founder of VAi Lawyer Group",
+      "desc": "Specializes in civil and commercial litigation, equity disputes, and non-litigation cases, highly skilled and experienced"
+    },
+    {
+      "name": "DonYuk Han - Core Member of VAi Lawyer Group",
+      "desc": "Expert in non-litigation civil and commercial cases and enterprise risk prevention, legal advisor to many Fujian enterprises"
+    },
+    {
+      "name": "Yvette Liu - Co-founder of VAi Lawyer Group",
+      "desc": "Specializes in corporate legal advisory, project consulting, equity, and compliance with rich practical experience"
+    },
+    {
+      "name": "Nicholas Zeng - Senior Partner at VAi",
+      "desc": "Proficient in corporate litigation, arbitration, and contract dispute resolution"
+    },
+    {
+      "name": "Stephanie Chen - Core Member of VAi",
+      "desc": "Extensive experience in corporate compliance and legal affairs across multiple industries"
+    },
+    {
+      "name": "Freya Wu - Core Member of VAi Lawyer Group",
+      "desc": "Specializes in civil and commercial litigation, contract disputes, and non-litigation, attentive to client needs"
+    }
+  ],
+  "contactButton": "Scan the QR code below\nto follow us on WeChat for more info",
+  "footerBannerAlt": "Integrity · Humility · Innovation · Consistency"
+},
+
+"shareholding": {
+  "bannerAlt": "Corporate Law / Equity",
+  "cards": [
+    {
+      "title": "Legal Counsel",
+      "text": "Company law consultation\nDraft legal documents\nParticipate in business negotiations\nProvide legal opinions"
+    },
+    {
+      "title": "Dividend Planning",
+      "text": "Shareholder rights distribution design\nProfit distribution customization\nTax avoidance strategies"
+    },
+    {
+      "title": "Capital Increase & Share Expansion",
+      "text": "New shareholder agreement\nCapital adjustment process\nEquity protection mechanisms"
+    },
+    {
+      "title": "Equity Transfer",
+      "text": "Develop transfer plans\nDraft contracts and terms\nHandle business registration changes"
+    },
+    {
+      "title": "Divorce Agreement",
+      "text": "Equity division strategies\nEnsure clear post-marriage property distribution"
+    },
+    {
+      "title": "Mergers & Restructuring",
+      "text": "M&A process design\nContract negotiation support\nCompliance evaluation services"
+    },
+    {
+      "title": "Business Negotiation",
+      "text": "Equity financing assistance\nNegotiation proxy\nNegotiation skill training"
+    },
+    {
+      "title": "Legal Due Diligence",
+      "text": "Pre-investment/M&A legal risk review\nDue diligence report output"
+    },
+    {
+      "title": "Other Legal Services",
+      "text": "Contract review\nLitigation support\nOther corporate legal consulting"
+    }
+  ],
+  "ctaButton": "Contact us for more information"
+},
+
+"equivalentStudies": {
+  "bannerAlt": "Equivalent Examination Studies",
+  "slogan": "\"Straight to the point, packed with value — let me show you how to pass\"",
+  "subSlogan": "The VAI Equivalent Studies Research Center is dedicated to helping law exam and postgrad candidates \nget the best materials and achieve top results",
+  "wechat": {
+    "public": {
+      "alt": "Click to view official WeChat QR code",
+      "dialogAlt": "Official WeChat QR Code - Enlarged",
+      "caption": "Scan to follow the VAI Equivalent Studies Research Center official WeChat"
+    },
+    "customer": {
+      "alt": "Click to view customer service WeChat QR code",
+      "dialogAlt": "Customer Service WeChat QR Code - Enlarged",
+      "caption": "Scan to add our customer service on WeChat"
+    }
+  },
+  "ctaButton": "Scan QR code to learn more"
+},
+
+"collaboration": {
+  "bannerAlt": "TeteYi News / Business Collaboration",
+  "sectionTitle": "TeteYi News",
+  "newsContent": [
+  "On June 18, 2025, the Fujian Business Soul & TeteYi Law Firm VAi Lawyers Co-founding Partners Entrepreneurship Conference was held in Xiamen, attended by core members of the VAi Lawyers Team.",
+  "In April 2025, TeteYi Law Firm’s VAi Lawyers Team launched international business by signing with Singapore Yanxin Fund.",
+  "In April 2025, the VAi Lawyers Team provided full English contract drafting and communication services for Thai company Ariya (Xiamen).",
+  "On January 6, 2022, Lawyer Zhuang Wei, senior partner of Yingke and member of the VAi Lawyers Team, was invited by the Xiamen Jimei District Market Supervision Administration to deliver a lecture on “Breaking Through the Pandemic: Compliance and Development of Pharmaceutical & Medical Device Enterprises.”",
+  "In December 2021, at the World Hairdressing Conference held in Xiamen, TeteYi Law Firm GuDe Legal Services served as the legal advisor for Ouba Group, with CEO Wang Jiaying and others invited to participate.",
+  "In November 2021, the VAi Lawyers Team was invited by the Xiamen Jimei Market Supervision Administration to deliver a special lecture entitled “Breaking Through the Pandemic: Compliance and Development of E-commerce Enterprises.”",
+  "In November 2021, at the 27th Xiamen Staff Skills Competition for Customer Service Technology, TeteYi Law Firm GuDe Legal Services acted as the on-site guidance unit. Lawyer Wang Jiaying provided participants with legal knowledge training and related skills, receiving unanimous praise from the trainees."
+],
+  "clientsTitle": "Our team has collaborated with many renowned foreign companies and domestic SMEs:",
+  "clientsContent": "Huarong Group (Stock Code: 02799), iKang Group (Stock Code: 002610), People’s Insurance Company of China (Stock Code: 01339)\n\nLiucheng Co., Ltd. (Stock Code: 836400), Dongfeng Motor, China State Construction Engineering First Bureau, Miyuan Group, Shumo Technology, Nengyun Logistics, Shanghai Wailianfa,\n\nChina Life Insurance, Renren Tax Services, Baya Co., Ltd., Mingdi Real Estate, Anyibao Security, Yuanhao Testing, Luo City Catering, Yang Mama Entrepreneurship Center,\n\nSonate Hotel, Village Notes, Shangmei Dental, Tongyu Environmental Protection, Meicheng Hongjing, Zhangfu Finance, Pucheng Culture, Mingqi Shida, Meiren Property\n\nKayou Payment, Yuansheng Real Estate, Shemlai Catering, Gumi Fund, Dingxi Capital, Kangtie Logistics, Asia Tour Trading, Hexin Machinery, Weiye Information\n\nLuolang Design, Ruandong Assets, Julian Semiconductor, Kekeyi Information, Meilai Medical, Xin Hao Yue, Yijishun Logistics, Hulian Assets, Xiecheng Group\n\nHeguan Fund, Hongtu Exhibition, Yierxin Information, Minhang TCM Hospital, Dikai Doors & Windows, Runhao Environmental Protection, Suchang Municipal, Yangtze River Delta Jiangxi Business Association\n\nYuancheng Logistics, Ailang Wind Power, Gaozhen Apparel, Tongxing Engineering, Huarong Zhiyuan, Yuan Cheng Logistics, Huabo Design, Luoyilai, Su Hui Fund\n\nYilai Beauty, Zhongguan Technology, AOJI Language, Zhongrong Yuntian (Xiamen) Trading Co., Ltd., Zhongwu Xingye (Beijing) Security Technology Co., Ltd.,\nShanghai ABC Chemical Co., Ltd., Shanghai Mailao Business Services Co., Ltd., Shanghai Beigao Xinguang Property Management Group,\nXiamen Nanyang Vocational College, Xiamen Dongnan Security Services Co., Ltd., Xiamen Meixiuxiu Medical Technology Co., Ltd.,\nXiamen Shangda Electronic Insulation Materials Co., Ltd., Fujian Hongguan Chemical Co., Ltd., Shanghai Youdong Advertising & Communication,\nYueqing Shenrui Real Estate Development Co., Ltd., Jiangxi Bokai Sports Products Co., Ltd., Guoke Innovation Institute (Xiamen) Co., Ltd.,\nChina Mobile Jiangsu Suzhou Branch, Xiamen Nature Precision Medical Technology Co., Ltd.,\nJiangsu Jinma Transport Group Co., Ltd., Zhenjiang Jinyue Hotel Co., Ltd., Zhenjiang Dantu District Justice Bureau,\nShanghai Runzhe Computer Systems Co., Ltd., Shanghai Leciyang Elderly Services Co., Ltd., Shanghai Airong New Materials Co., Ltd., Vanke Property, Jimei District Market Supervision Administration, Ouba Group, Fujian Daxin Chemical Fiber & Textile Development Co., Ltd.,\nShanghai Fangfu Asset Management Co., Ltd., Xiamen Ruiyuanxin E-commerce Co., Ltd., Xiamen Shunhui Foods Co., Ltd., Xiamen Haini Biotechnology Co., Ltd.,\nXiamen Lianyao Real Estate Co., Ltd., Naco Household Products (Qingdao) Co., Ltd., Lin Shrimp Group, …",
+  "button": "Join or collaborate with us"
+},
+
+"contact": {
+  "bannerAlt": "Contact Us",
+  "addressLabel": "Address",
+  "addressText": "Room 1006, Dingfeng Fortune Center, Huli District, Xiamen, Fujian Province, China (Postcode: 301016)",
+  "phoneLabel": "Phone",
+  "phoneText": "+86 13701736885",
+  "emailLabel": "Email",
+  "emailText": "jt199198@163.com",
+  "imageAlt": "TTY Office"
+},
+
+"join": {
+  "bannerAlt": "Join TeteYi",
+  "description": [
+    "If you are committed to business law and view equity as the key, eager to hone your expertise in shareholder dynamics and capital operations,",
+    "If you are passionate about equity structures and corporate governance, wishing to turn your passion into a lifelong mission to cultivate the legal ecosystem of enterprises,",
+    "If you seek more than interpreting legal texts and aim to harmonize business and law, creating value in charter design and control battles,",
+    "TeteYi is born for professionals like you.",
+    "If you are ready to spread your wings with expertise and embark with us on the vast journey of enterprise legal services, this is your stage.",
+    "The Kunpeng is ready—come ride the wind with us."
+  ],
+  "buttonText": "Contact Us",
+  "footerBannerAlt": "Integrity, Humility, Innovation, Consistency"
+},
+
+"legal": {
+  "title": "Legal Notice",
+  "content": [
+    "Welcome to the website of TeteYi Law Firm (\"TeteYi\").",
+    "TeteYi is a comprehensive law firm established in China. This website is owned and managed by TeteYi solely for the purpose of introducing the firm and promoting understanding. The information on this website is for reference only and does not constitute legal advice or opinions from TeteYi’s lawyers.",
+    "Visitors and recipients of the information should not rely on this website as a basis for action or inaction.",
+    "Links provided on this website are for convenience only and do not imply any cooperative relationship with TeteYi, nor do they constitute any express or implied warranty or liability.",
+    "TeteYi respects and is committed to the protection of intellectual property rights. The text, images, and other information on this website may involve copyrights or other civil rights; please do not reproduce or use them without authorization.",
+    "Do not use any information from this website (including, but not limited to, the email addresses and phone numbers posted on this website) to send, disseminate, or assist in disseminating unauthorized bulk emails or advertisements.",
+    "Using the information from this website in such ways will constitute a violation of the website’s terms of use.",
+    "This website provides no license or warranty for the use of such information, and any legal liability arising therefrom is unrelated to TeteYi.",
+    "The information contained herein is solely for the purpose of introducing TeteYi and promoting understanding.",
+    "If you believe any content infringes your intellectual property or other rights, please contact TeteYi immediately at jt199198@163.com. Upon verification, we will promptly take the necessary measures.",
+    "For any questions about this website, please contact TeteYi."
+  ]
+},
+
+"privacy":
+{
+  "title": "Privacy Policy",
+ "content": [
+      "Personal Information Protection Policy",
+      "Release and Effective Date: September 1, 2025",
+      "TeteYi Law Firm (\"TeteYi\" or \"we\") fully understands the importance of personal information and is always committed to safeguarding your personal data and security.",
+      "This Personal Information Protection Policy (also referred to as \"Privacy Policy\" or \"Policy\") aims to explain how we collect, use, share, and protect your personal information when you access our website via browsers or WeChat services, or use all or part of our products and services through online or offline channels.",
+      "Please make sure to read this Privacy Policy carefully before providing us with your personal information.",
+      "By providing us with your personal information or using our services, you acknowledge that we will collect necessary information based on service provision or other legitimate purposes, and process such information as described in this Privacy Policy.",
+      "If you do not agree with this Privacy Policy, please stop using our services immediately.",
+      "We may collect and use your sensitive personal information for the purpose of providing specific services.",
+      "Please be cautious when deciding whether to provide such information during the use of our services.",
+      "We will make every effort to protect your personal information.",
+      "This Privacy Policy will help you understand the following:",
+      "1.",
+      "How we collect your personal information",
+      "2.",
+      "How we use your personal information",
+      "3.",
+      "How we entrust processing, share, transfer, and disclose your personal information",
+      "4.",
+      "How we protect your personal information",
+      "5.",
+      "Storage period",
+      "6.",
+      "Cross-border transfer of personal information",
+      "7.",
+      "Your rights as a personal information subject",
+      "8.",
+      "How we handle children's personal information",
+      "9.",
+      "How this Privacy Policy is updated",
+      "10.",
+      "How to contact us",
+      "We deeply understand the importance of personal information to you.",
+      "We will comply with applicable laws and regulations, following the principles of lawfulness, legitimacy, necessity, and good faith, as well as clarity of purpose, data minimization, transparency, quality, and security to protect your personal information.",
+      "We will adopt appropriate technical and organizational security measures to protect your personal information against unauthorized access, disclosure, alteration, and loss.",
+      "I.",
+      "How we collect your personal information",
+      "To provide you with relevant services, we will collect and process your personal information within the scope permitted by applicable laws, regulations, and rules, and as described in this Privacy Policy.",
+      "If you do not provide or refuse to allow us to collect your personal information, we may be unable to provide some or all of our services to you.",
+      "We only collect and process sensitive personal information under specific and necessary circumstances, in accordance with applicable laws and regulations.",
+      "Sensitive personal information refers to personal data which, if leaked or misused, could easily harm the dignity of natural persons or their personal/property safety, including biometric data, religious beliefs, specific identities, medical health, financial accounts, location data, as well as the information of minors under 14 years old.",
+      "The specific situations of personal information collection and processing in our different services/channels are as follows:",
+      "(1)",
+      "When you are or will become our client, to provide you with our services:",
+      "In accordance with laws, regulations, and supervisory requirements, before providing services we may need to perform anti-money laundering, anti-terrorism, fraud, sanctions, and other background checks, and may collect your or your employees’ personal information.",
+      "When providing services to individuals, depending on the necessity of specific matters, we may collect your name, gender, ID number, address, phone number, email, occupation, employer, and financial information (bank accounts and payment cards).",
+      "When providing legal services to enterprises or other organizations, we may collect information of client representatives, contacts, and project team members, including names, contact details (phone numbers, emails, faxes), departments, and positions.",
+      "Additionally, due to the varying fields of different legal services, we may also collect personal information you provide during the service process or information generated while providing services to you.",
+      "For example, copies of ID/passports of legal representatives or senior executives, transaction records; in litigation cases, we may collect information such as family relations, employment, property details, and other case-specific personal information.",
+      "(2)",
+      "When you are an organization or individual related to our clients or projects:",
+      "Although you are not our direct service object, in order to fulfill contractual obligations as part of a client’s mandate, we may collect your personal information as an employee, counterparty, or supplier of the client.",
+      "For example, in transaction projects, as the legal counsel of one party, we may collect personal information of the other party’s managers, employees, and suppliers, including names, addresses, contact details, departments, positions, and other case-specific information, depending on the type of service.",
+      "(3)",
+      "When you apply to become our employee, intern, or other staff:",
+      "We recruit talents through online and offline channels. You may submit applications via TeteYi’s official website or authorized recruitment emails/channels. We will collect your email address and other personal information you voluntarily provide, such as name, date of birth, educational background, work information, contact details, photos, addresses, and other interaction information.",
+      "In offline recruitment, we may require you to provide resumes containing personal details such as name, date of birth, gender, photo, contact information, address, education history, work experience, and other voluntarily provided or interaction-based information.",
+      "(4)",
+      "When you access and use TeteYi’s WeChat Official Account:",
+      "When you follow and use our WeChat account, we may collect your WeChat nickname and avatar.",
+      "You may also register for our seminars, lectures, or events through invitations published on our WeChat account or other authorized channels. We may collect your name, contact information, employer, position, email, and phone number to ensure registration and provide event notifications.",
+      "(5)",
+      "Information collected through automated technologies:",
+      "When you access and use TeteYi’s official website, we may automatically collect information such as logs, device/software details, location, IP address, and network status via cookies or other technologies.",
+      "Cookies are small text files stored on your local computer.",
+      "When you visit the TeteYi website, cookies are used to recognize your identity.",
+      "Through cookies, we can continuously improve the user-friendliness of the website and provide you with more professional and comprehensive service information.",
+      "You can change your browser settings to be notified when cookies are stored on your computer.",
+      "You can also disable cookies, but this may prevent you from accessing or using certain website features.",
+      "(6)",
+      "Other circumstances:",
+      "To achieve other agreed purposes or based on other legitimate grounds for processing, we may obtain your personal information from other legal sources, such as public databases, social media, authorized third parties, and partners.",
+      "We may also occasionally hold events, during which we may collect your personal information when you book or participate in such activities."
+    ]
+},
+
+"mobileMenu": {
+  "close": "Close ✕"
+}
+
+}
+
+
