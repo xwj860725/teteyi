@@ -20,7 +20,7 @@ function Footer() {
         <Logo className="mx-auto mb-6" />
 
         {/* PC: bottom navigation (horizontal) */}
-        <div className="hidden md:block">
+        <div>
           <Navfooter navfooterItems={navfooterItems} />
         </div>
 

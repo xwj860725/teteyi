@@ -16,7 +16,7 @@ function Description({
           {title}
         </h2>
       )}
-      <div className={`bg-gray-100 text-xl text-gray-700 leading-relaxed p-4 rounded ${contentClass}`}>
+      <div className={`bg-gray-100 text-sm text-gray-700 leading-relaxed md:text-xl p-2 rounded ${contentClass}`}>
         {children}
       </div>
     </div>

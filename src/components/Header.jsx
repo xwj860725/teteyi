@@ -29,7 +29,7 @@ function Header() {
       </div>
 
       {/* right: language switch + search button */}
-      <div className="hidden md:flex w-[140px] h-20 grid-cols-2 items-center gap-4">
+      <div className="flex w-[140px] h-20 grid-cols-2 items-center gap-4">
         <Lang location={location} />
         <SearchIcon className="h-6 w-6" />
       </div>

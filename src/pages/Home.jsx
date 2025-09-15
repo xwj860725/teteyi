@@ -37,7 +37,7 @@ function Home() {
 
 
         {/* 4. Professional Team Section */} 
-        <Description title={t('home.team.title')} className='py-2'>
+        <Description title={t('home.team.title')} className='py-1'>
           {t('home.team.desc')}
         </Description>
 
@@ -48,14 +48,14 @@ function Home() {
         bgColor="bg-red-800"
         textColor="text-white"
         hoverTextColor="text-blue-200"
-        className="flex items-center mx-auto my-10 justify-center w-56 h-24 rounded-8 hover:font-bold"
+        className="flex items-center mx-auto my-4 justify-center w-56 h-24 rounded-8 hover:font-bold"
         />
 
 
         {/* 5. Business area block */}
-        <section className="w-full mx-auto px-4 py-8">
-            <h2 className="text-4xl font-semibold mt-8 mb-2 text-center">{t('home.business.title')}</h2>      
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-10 mx-auto">
+        <section className="w-full mx-auto px-1 py-2">
+            <h2 className="text-base font-semibold mt-4 mb-1 text-center md:text-4xl">{t('home.business.title')}</h2>      
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-2 mx-auto">
                 {btns.map((btn) => (
                  <Btn 
                   key={btn.text}
@@ -65,7 +65,7 @@ function Home() {
                   bgColor="bg-blue-400"
                   textColor="text-white"
                   hoverTextColor="text-blue-200"
-                  className="flex items-center justify-center mx-auto my-10 h-36 w-full hover:text-yellow-200"
+                  className="flex items-center justify-center mx-auto my-4 h-36 w-full hover:text-yellow-200"
                 />
                 ))}
             </div>

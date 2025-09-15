@@ -20,7 +20,7 @@ i18n
         translation: translationZH,
       }
     },
-    lng: "zh", 
+    lng: "en", 
     fallbackLng: "zh", 
     interpolation: {
       escapeValue: false, 
